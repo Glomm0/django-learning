@@ -1,3 +1,3 @@
 # django-learning
 Simple marketplace made with django
-Has communication between people, search, managing items
+Has communication between people,dashboard, item search, managing items
